@@ -737,6 +737,12 @@
                     },
                     "avereCacheSizeGB": {
                         "value": "[variables('selectedSize').avere.diskSize]"
+                    },
+                    "avereCreateClusterRoleId": {
+                        "value": "a7b1b19a-0e83-4fe5-935c-faaefbfd18c3"
+                    },
+                    "avereClusterRole":{
+                        "value": "Avere Cluster Runtime Operator"
                     }
                 }
             }
